@@ -1,0 +1,6 @@
+framework module Pods_SwiftCurrencyTests {
+  umbrella header "Pods-SwiftCurrencyTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
